@@ -1,2 +1,2 @@
 # chicharitoo.github.io
-Proyectis
+Proyectos
